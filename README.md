@@ -1,8 +1,10 @@
-# Module_10_A-Yen_for_the_future
+# A Yen for the future - Time Series
 
-In this assignment, you will test the many time series tools that you have learned in order to predict future movements in the value of the Canadian dollar versus the Japanese yen.
+This repo tests many time series tools in order to predict future movements in the value of the Canadian dollar versus the Japanese yen.
+The data from the CSV file looks at the CDN-JPY data over the years from 1982-2020.
 
-## Return Forecasting: Time Series Analysis & Modelling with CAD-PHY Exchange rate data.
+
+## Return Forecasting: Time Series Analysis & Modelling with CAD-JPY Exchange rate data.
 
 ### Initial Time-Series Plotting
 Question: Do you see any patterns, long-term and/or short? 
